@@ -1,0 +1,4 @@
+hello
+=====
+
+trying out go
